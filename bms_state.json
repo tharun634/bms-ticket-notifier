@@ -1,11 +1,108 @@
 {
-  "shows": {},
+  "shows": {
+    "ACKB|3190|20260328|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "10:25 AM",
+      "date": "20260328",
+      "cat": "MAJESTIC",
+      "price": "650.00",
+      "status": "1"
+    },
+    "ACKB|3190|20260328|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "10:25 AM",
+      "date": "20260328",
+      "cat": "GRAND",
+      "price": "550.00",
+      "status": "3"
+    },
+    "ACKB|3190|20260328|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "10:25 AM",
+      "date": "20260328",
+      "cat": "CLASSIC",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ACKB|3192|20260328|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260328",
+      "cat": "MAJESTIC",
+      "price": "650.00",
+      "status": "1"
+    },
+    "ACKB|3192|20260328|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260328",
+      "cat": "GRAND",
+      "price": "550.00",
+      "status": "3"
+    },
+    "ACKB|3192|20260328|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260328",
+      "cat": "CLASSIC",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ACKB|3230|20260329|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "10:25 AM",
+      "date": "20260329",
+      "cat": "MAJESTIC",
+      "price": "650.00",
+      "status": "1"
+    },
+    "ACKB|3230|20260329|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "10:25 AM",
+      "date": "20260329",
+      "cat": "GRAND",
+      "price": "550.00",
+      "status": "3"
+    },
+    "ACKB|3230|20260329|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "10:25 AM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ACKB|3232|20260329|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260329",
+      "cat": "MAJESTIC",
+      "price": "650.00",
+      "status": "2"
+    },
+    "ACKB|3232|20260329|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260329",
+      "cat": "GRAND",
+      "price": "550.00",
+      "status": "3"
+    },
+    "ACKB|3232|20260329|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "450.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260325": "BOOKABLE",
+    "20260325": "AVAILABLE",
     "20260326": "AVAILABLE",
-    "20260327": "NOT_OPEN",
-    "20260328": "NOT_OPEN",
-    "20260329": "NOT_OPEN",
+    "20260327": "AVAILABLE",
+    "20260328": "AVAILABLE",
+    "20260329": "BOOKABLE",
     "20260330": "NOT_OPEN",
     "20260331": "NOT_OPEN"
   }
